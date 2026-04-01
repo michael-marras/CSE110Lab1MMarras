@@ -1,6 +1,6 @@
 # Michael Marras
 ## Summary
-Michael Marras is a Math–CS undergrad with strong algorithms, systems programming, and C++ experience, seeking software or systems engineering positions. Outside of programming here are some things I enjoy doing in my free time [Hobbies](hobbies) [Student Info](PRIVATE.txt)
+Michael Marras is a Math–CS undergrad with strong algorithms, systems programming, and C++ experience, seeking software or systems engineering positions. Outside of programming here are some things I enjoy doing in my free time [Hobbies](#hobbies). Other info [here](PRIVATE.txt)
 
 ## Languages
 - C++
